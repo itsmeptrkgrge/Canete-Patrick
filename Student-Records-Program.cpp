@@ -177,10 +177,3 @@ int findStudentById(const Student students[], int numStudents, int id) {
     }
     return -1;
 }
-Sent 5m ago
-Write to Ptrk's Repository of School Files
-
-
-Ptrk's Repository of School Files
-Mute
-Search
